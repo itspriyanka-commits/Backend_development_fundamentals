@@ -218,37 +218,37 @@ The following screenshots demonstrate the API testing performed using Postman.
 
 Retrieves all book records from the database.
 
-![GET All Books](screenshots/get-all-books.png)
+![GET All Books](screenshots/get-all-books.jpeg)
 
 ### 7.2 GET Book by ID
 
 Retrieves a specific book using its ID.
 
-![GET Book by ID](screenshots/get-book-by-id.png)
+![GET Book by ID](screenshots/get-book-by-id.jpeg)
 
 ### 7.3 POST — Add a New Book
 
 Adds a new book and displays the API response.
 
-![POST Add Book](screenshots/post-book.png)
+![POST Add Book](screenshots/post-book.jpeg)
 
 ### 7.4 PUT — Update a Book
 
 Updates an existing book and displays the success response.
 
-![PUT Update Book](screenshots/put-book.png)
+![PUT Update Book](screenshots/put-book.jpeg)
 
 ### 7.5 PUT — Additional Update Test
 
 Shows the additional update request performed during testing.
 
-![PUT Updated Book](screenshots/put-book-updated.png)
+![PUT Updated Book](screenshots/put-book-updated.jpeg)
 
 ### 7.6 DELETE — Delete a Book
 
 Deletes the test book and displays the API response.
 
-![DELETE Book](screenshots/delete-book.png)
+![DELETE Book](screenshots/delete-book.jpeg)
 
 ## 8. Implementation Highlights
 
@@ -349,3 +349,4 @@ The application was tested locally. A public deployment URL has not been provide
 This lab provided practical experience in integrating SQLite with an Express.js application and implementing REST API endpoints for CRUD operations.
 
 It also helped me understand asynchronous database operations, parameterized SQL queries, HTTP methods, and API testing using Postman. The project demonstrates the basic operations required to manage book records in an SQLite database through an Express.js REST API.
+
