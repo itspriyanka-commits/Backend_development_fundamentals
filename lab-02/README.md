@@ -342,7 +342,9 @@ PUT is generally idempotent, meaning that repeating the same request with the sa
 
 **Local Development URL:** `http://localhost:3000`
 
-The application was tested locally. A public deployment URL has not been provided.
+**Live Deployment URL:** https://lab-02-express-server-priyanka.onrender.com
+
+The application is deployed using Render.
 
 ## 13. Conclusion
 
