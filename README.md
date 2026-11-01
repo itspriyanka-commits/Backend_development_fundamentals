@@ -10,7 +10,7 @@
 
 ## Live Link
 
-Not deployed yet. The application can be run locally using `http://localhost:3000`.
+[Lab 1 Node.js and Express Server](https://lab-01-express-server-priyanka.onrender.com/)
 
 ## Objective
 
