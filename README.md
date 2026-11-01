@@ -29,10 +29,10 @@ To create a basic HTTP server using Node.js and an Express server with multiple 
 ```text
 lab-01/
 ├── screenshots/
-│   ├── home.png
-│   ├── about.png
-│   ├── time.png
-│   └── not-found.png
+│   ├── home.jpeg
+│   ├── about.jpeg
+│   ├── time.jpeg
+│   └── not-found.jpeg
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
@@ -90,27 +90,22 @@ Other undefined paths should also return a 404 response.
 
 ## Screenshots
 
-1. Home Route
+### 1. Home Route
 
-Displays the welcome message returned by the home route.
+![Home Route](screenshots/home.jpeg)
 
+### 2. About Route
 
+![About Route](screenshots/about.jpeg)
 
-2. About Route
+### 3. Time Route
 
-Displays the student's name and section in JSON format.
+![Time Route](screenshots/time.jpeg)
 
+### 4. 404 Not Found
 
+![404 Not Found](screenshots/not-found.jpeg)
 
-3. Time Route
-
-Displays the current date and time.
-
-
-
-4. 404 Not Found
-
-Displays the response for an unknown route.
 
 
 
