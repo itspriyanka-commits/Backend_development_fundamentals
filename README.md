@@ -92,13 +92,13 @@ Other undefined paths should also return a 404 response.
 
 1. Home Route
 
-Displays the welcome message.
+Displays the welcome message returned by the home route.
 
 
 
 2. About Route
 
-Displays the student's name and section.
+Displays the student's name and section in JSON format.
 
 
 
@@ -111,7 +111,6 @@ Displays the current date and time.
 4. 404 Not Found
 
 Displays the response for an unknown route.
-
 
 
 
