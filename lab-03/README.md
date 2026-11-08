@@ -111,28 +111,41 @@ Send the same JSON structure as POST. The route updates the complete book record
 
 All error responses use a JSON `message` field.
 
-## Postman Testing
-Follow the complete test list in [POSTMAN_TESTS.md](POSTMAN_TESTS.md). Capture screenshots of successful responses and failure cases, then save them inside `screenshots/`.
 
-Suggested screenshot filenames:
-- `get-all-books.png`
-- `search-books.png`
-- `sort-and-pagination.png`
-- `price-filter.png`
-- `get-book-by-id.png`
-- `create-book.png`
-- `validation-error.png`
-- `update-book.png`
-- `delete-book.png`
-- `not-found.png`
+## 7. Postman Testing and Screenshots
 
-Add screenshots here after capturing them in Postman:
-```md
-![GET all books](screenshots/get-all-books.png)
-![Search books](screenshots/search-books.png)
-![Create book](screenshots/create-book.png)
-![Validation error](screenshots/validation-error.png)
-![Not found](screenshots/not-found.png)
+### 7.1 GET All Books
+![GET All Books](screenshots/get-all-the-books.jpeg)
+
+### 7.2 GET Book by ID
+![GET Book by ID](screenshots/get-book-by-the-id.jpeg)
+
+### 7.3 Search Books
+![Search Books](screenshots/search-books.jpeg)
+
+### 7.4 Sorting Books
+![Sort Books](screenshots/sort-books.jpeg)
+
+### 7.5 Pagination
+![Pagination](screenshots/pagination.jpeg)
+
+### 7.6 Price Range Filter
+![Price Filter](screenshots/price-filter.jpeg)
+
+### 7.7 Create a New Book
+![Create Book](screenshots/create-book.jpeg)
+
+### 7.8 Input Validation
+![Validation Errors](screenshots/validation-error.jpeg)
+
+### 7.9 Update a Book
+![Update Book](screenshots/update-book.jpeg)
+
+### 7.10 Book Not Found
+![Book Not Found](screenshots/book-not-found.jpeg)
+
+### 7.11 Delete a Book
+![Delete Book](screenshots/delete-the-book.jpeg)
 ```
 
 ## Debugging Exercise: Common Problems and Fixes
