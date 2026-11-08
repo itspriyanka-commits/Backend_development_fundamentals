@@ -8,7 +8,10 @@
 - **Lab Number:** 03
 
 ## Live Link
-Not deployed yet. Run locally using the steps below. After deployment, replace this line with the public server URL.
+
+<https://backend-lab-03-d69y.onrender.com/>
+
+The REST API is successfully deployed on Render and publicly accessible.
 
 ## Objective
 To convert the Lab 2 book routes into a RESTful API with search, sorting, pagination, price filtering, request validation, correct HTTP status codes and consistent JSON responses.
