@@ -8,9 +8,20 @@
 - **Course:** Backend Development Fundamentals
 - **Lab Number:** 04
 
-## Live Link
+## Deployment
 
-Not deployed yet. The application is running locally at `http://localhost:3000`.
+The Lab 04 backend application is deployed on Render.
+
+**Live Deployment URL:**  
+https://backend-development-fundamentals-lab-04.onrender.com/
+
+### Authentication API Endpoints
+
+| Method | Endpoint | Description |
+|---|---|---|
+| POST | `/register` | Register a new user |
+| POST | `/login` | Login and generate a JWT token |
+
 
 ## Objective
 
